@@ -1,0 +1,25 @@
+"A vacation is when you take a trip to some <adjective> place with your <adjective2> family. Usually you go to some place that is near a/an  <noun>  or up on a/an <noun2 >. A good vacation place is one where you can ride <plural_noun> or play <game> or go hunting for <plural_noun2>. I like to spend my time <ing_verb> or < ing_verb2>. When parents go on a vacation, they spend their time eating three <plural_noun3> a day, and fathers play golf, and mothers sit around <ing_verb3>
+. Last summer, my little brother fell in a/an <noun3> and got poison <plant> all over his <body_part>. My family is going to go to the <place>, and I will practice <ing_verb4>
+.Parents need vacations more than kids because parents are always very <adjective3> and because they have to work <number> hours every day all year making enough  <plural_noun4> to pay for the vacation."
+
+
+
+{'<ing_verb4>': 'Kungfu', 
+'<plural_noun4>': 'Preparations', 
+'<adjective2>': 'entire', 
+'<plural_noun>': 'bicycle', 
+'<plant>': 'green', 
+'<place>': 'hawkits', 
+'<plural_noun3>': 'rectanglar meal', 
+'<noun>': 'ocean ', 
+'<adjective3>': 'busy', 
+'<adjective>': 'distant ', 
+'<ing_verb>': 'reading ', 
+'<plural_noun2>': 'in the woods ', 
+'<noun3>': 'pit', 
+'<ing_verb3>': 'the house', 
+'<game>': 'playstation games ', 
+'<number>': '9', 
+'<noun2 >': 'tree', 
+'< ing_verb2>': 'programming ', 
+'<body_part>': 'back '}
